@@ -1,0 +1,7 @@
+Phone number: +1 714 874 8140
+
+Available Commands:
+    Quote: This command will return random programming quotes.
+        Example: Enter command "Quote" in Upper or lower case it will return random quotes.
+    Advice: This command will return random advices.
+        Example: Enter command "Advice" in Upper or lower case it will return random advices.
