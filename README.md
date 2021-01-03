@@ -26,3 +26,9 @@ Created an SMS bot that when texted will modify a Redis database and send respon
 * Make sure you install npm dependances first: `npm install`
 * To run both server and client: `npm run start`
 * To run only server or client: `npm run server|client`
+
+# Output
+
+![alt text](https://github.com/prerakpatelca/SMS-with-FaaS/blob/master/1.jpg)
+![alt text](https://github.com/prerakpatelca/SMS-with-FaaS/blob/master/2.jpg)
+![alt text](https://github.com/prerakpatelca/SMS-with-FaaS/blob/master/Screen%20Shot%202021-01-03%20at%2011.08.40%20AM.png)
